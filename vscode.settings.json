@@ -1,0 +1,37 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.renderWhitespace": "all",
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.formatOnType": true,
+  "editor.fontLigatures": true,
+  "editor.fontSize": 15,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": { "source.fixAll": true },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.arrowParens": "avoid",
+  "prettier.jsxSingleQuote": true,
+  "prettier.requireConfig": true,
+  "explorer.compactFolders": false,
+
+  "terminal.integrated.cursorStyle": "line",
+
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "[javascript]": {
+    "editor.formatOnSave": true
+  },
+  "files.maxMemoryForLargeFilesMB": 8192,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "workspaceExplorer.workspaceStorageDirectory": "c:\\Users\\sek_h\\OneDrive\\Área de Trabalho\\Workspaces",
+  "prettier.configPath": "D:/vscode/prettier.config.json",
+  "prettier.endOfLine": "auto",
+  "redhat.telemetry.enabled": false,
+  "workbench.colorTheme": "Omni",
+  "bracketPairColorizer.depreciation-notice": false,
+  "workbench.tree.indent": 17,
+  "emmet.includeLanguages": { "javascript": "javascriptreact" },
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "prettier.trailingComma": "all"
+}
